@@ -3,7 +3,7 @@ templateKey: index-page
 title: 感到鴨力
 image: /img/69585715_2557138314346833_136662457744621568_n.jpg
 heading: 黑丁
-subheading: Feeling a duck stress
+subheading: duck
 mainpitch:
   title: Why Kaldi
   description: >
